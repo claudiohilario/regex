@@ -21,4 +21,10 @@ Metacaractere | Nome     | Função
 `{n,m}`       |Chaves    | Representa de n até m
 
 ### Âncoras
+Metacaractere | Nome             | Função
+--------------|------------------|----------
+`^`           |Acento circunflexo| Início da linha
+`$`           |Cifrão            | Fim da linha
+`\b`          |Extremos          | Inicio ou fim da palavra
+
 ### Outros
